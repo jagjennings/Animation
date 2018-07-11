@@ -1,6 +1,6 @@
 xCoordinate = 50
-speedx = 2
-speedy = 2
+speedx = 5
+speedy = 5
 yCoordinate = 50
 red = random(255)
 green = random(255)
